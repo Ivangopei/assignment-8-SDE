@@ -4,7 +4,7 @@ A simple, elegant music library application built with vanilla HTML, CSS, and Ja
 
 ## Features
 
-- **Search**: Find albums by artist, album name, or genre
+- **Search**: Find albums by artist and album name
 - **Filter**: Browse albums by genre
 - **Sort**: Organize by artist, album, or year
 - **Statistics**: View total albums, artists, and genres
